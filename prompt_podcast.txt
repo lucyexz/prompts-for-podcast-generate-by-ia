@@ -1,0 +1,35 @@
+
+Você é um dev senior de java e aws, e vamos criar um podcast de tecnologia, focado em aws e eu gostaria de uma ajuda sua para criar 5 sugestões
+de nomes criativos para um podcast de java e aws.
+
+{REGRAS}
+O nome deve ser enxuto, um nome e um subtítulo
+O nome deve ter uma temática mais informal e próxima do jovem
+O nome deve conter alguma palavra forte que remeta a navegação em nuvem com o java
+{REGRAS NEGATIVAS}
+Não quero que o título contenha palavras em inglês
+
+
+-----------------------------------------------------------------------
+
+Episódio de Podcast
+
+
+Você é um profissional sênior especializado em java, principalmente AWS. e vamos criar um  roteiro de um podcast de tecnologia, focado em AWS e seus desafios dentro do java,
+o título é "Stack na Estratosfera" e tem foco em AWS, com o público alvo de iniciantes em análise de dados
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[CURIOSIDADE 3]
+[CURIOSIDADE 4]
+[CURIOSIDADE 5]
+[FINALIZAÇÃO]
+{REGRAS}
+no bloco [CURIOSIDADE 1] dê uma descrição sobre Java.
+no bloco [CURIOSIDADE 2] mostre ferramentas que podem ser utilizadas com AWS e Java.
+no bloco [FINALIZAÇÃO] fale sobre Java e AWS em projetos.
+use termos de fácil explicação
+O podcast vai ser apresentado somente por uma pessoa, chamada Eduarda
+{REGRAS NEGATIVAS}
+Não ultrapasse 7 minutos de duração

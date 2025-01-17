@@ -10,8 +10,9 @@ Repositório criado para criação de projeto durante curto da plataforma DIO.
 # 🧠 PROMPTS
 ChatGPT:
 | Ação | Prompt |
+| ---- | ------ |
 | conteúdo | preciso de um texto completo, sem separação de introdução, quero que esse podcast tenha no máximo 6 minutos! 
-também quero que você fale como um profissional sênior especializado em java, principalmente AWS. o tema vai ser AWS e seus desafios dentro do java. Quero uma linguagem descontraída, mas não informal. O podcast é direccionado para profisisonais da área que querem aprender mais sobra AWS. |
+também quero que você fale como um profissional sênior especializado em java, principalmente AWS. o tema vai ser AWS e seus desafios dentro do java. Quero uma linguagem descontraída, mas não informal. O podcast é direccionado para profissionais da área que querem aprender mais sobre AWS. |
 
 BingImage:
 | Ação | Prompt |
